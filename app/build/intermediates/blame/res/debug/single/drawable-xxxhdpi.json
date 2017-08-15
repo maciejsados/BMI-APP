@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_description_white_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_history_white_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_history_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_sentiment_very_satisfied_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sentiment_very_satisfied_black_24dp.png"
+    }
+]

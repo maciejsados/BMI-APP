@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/BMI"
+        android:checked="false"
+        android:icon="@drawable/ic_description_white_24dp"
+        android:title="O BMI" />
+    <item
+        android:id="@+id/historia"
+        android:checked="true"
+        android:icon="@drawable/ic_history_white_24dp"
+        android:title="Moje BMI" />
+
+
+
+
+</menu>

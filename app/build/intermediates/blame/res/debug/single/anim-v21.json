@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\d1ee45260a3529ecb78c04e40e78ea1b82e8a3e5\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\android_projekty\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\d1ee45260a3529ecb78c04e40e78ea1b82e8a3e5\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

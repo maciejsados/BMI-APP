@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\23a90a0fcc24a40d526bcfa1982f3bbaddeb0411\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_ce72d22fa718176aeef6ea48d0af05cd28a35386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\d1ee45260a3529ecb78c04e40e78ea1b82e8a3e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_dca2bb6052e6664e25ce3444f2061665792f05a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.0\b258209549457d03e912ec4641735fc88048df99\butterknife-annotations-8.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b258209549457d03e912ec4641735fc88048df99">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.0_f21804458daa641728451294d43dbe29659f7518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\8215dc6584356b9e578a0eed73e1518d6b3b6498\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_a5d899fe9ce4c35d0bfd5aabf4ae564607f395e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\d5931d4fbb89342914fd41beaf70206bcca2c85b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_5ce3cb5e436b93deafbf69b80213a5c34c22a387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\5be14a60f213a096885fffe5b6f172fc3da17541\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_8a212d1439f3805d3df0a3efc1250ddbb35e1ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\432a586473a00018d0a637774c462a46f6cd78dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_34e8f22dfffbac800c9f5c99e2699bded640cb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\eb3fddf9c3c817d12cd7ded0f4e64b63c2d27b7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="C:\Users\Maciej\Desktop\android_projekty\BMIApp\app\build\intermediates\pre-dexed\debug\classes_bbecf34feafa42a7fa91f0cbb26916980ff99ad6.jar" />
+    </item>
+
+</items>
